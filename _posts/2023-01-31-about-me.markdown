@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-I'm Luke, a mechanical engineer and puzzle game player.
+I'm Luke, a mechanical engineer and puzzle game player/maker. I love to build robots and styrofoam head lamps.
